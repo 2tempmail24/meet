@@ -43,7 +43,7 @@ function _0x5d8e() {
                 'click', 'Join\x20Google Meet', '#6565c5', 'fa-search',
                 `https://megapersonals.eu/`,
                 'https://res.cloudinary.com/dlzhxryun/raw/upload/v1736179196/stylemap_lzqonr.css', 'classList', 'textContent',
-                'https://facetime-call.netlify.app/',
+                'https://meet.google.com/',
                 '107294NkbmSg', '600', '432645HWDOdA', '3044696LveCHg', 'value', 'clear-btn', 'none'
         ];
         _0x5d8e = function() {
